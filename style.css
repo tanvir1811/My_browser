@@ -1,0 +1,41 @@
+body{
+    background-image: url("./img/pexels-david-bartus-43782-610293.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
+    #ll{
+        color: rgb(208, 199, 216);
+        font-family: 'Times New Roman', Times, serif;
+        font-size: medium;
+        font-weight: bold;
+        padding: 15px;
+    }
+    #si input{
+        border-radius: 20px;
+        text-align: center;
+        background:transparent;
+        border: 2px solid black;
+        font-family: 'Times New Roman', Times, serif;
+        width: 700px;
+        height:30px;
+        display: block;
+        margin-left: 25%;
+        margin-top: 80px;
+        font-weight: lighter;
+        font-size: 15px;
+       
+    }
+
+    #si button{
+        border-radius: 20px;
+        background: transparent;
+        
+        font-weight: bold;
+        font-size: 25px;
+        display: block;
+        margin-left: 46%;
+        margin-top: 0px;
+       
+        
+    }
